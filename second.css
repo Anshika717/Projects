@@ -1,0 +1,128 @@
+*{
+    margin: 0px;
+}
+#navbar{
+    background-color:black;
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    color: white;
+    justify-content:flex-end;
+    align-items: center;
+    font-size: 1.4rem;
+    font-family: sans-serif;
+    position: fixed;
+}
+#about a{
+    margin-right: 2.3rem;
+    color:white ;
+    text-decoration: none;
+}
+#work a{
+    margin-right: 2.3rem;
+    color:white ;
+    text-decoration: none;
+}
+#contact a{
+    margin-right: 2rem;
+    color:white ;
+    text-decoration: none;
+}
+#info{
+    height: 20rem;
+    width: 100%;
+    background-image: linear-gradient(blue,rgb(230, 42, 176),rgb(210, 19, 19));
+    text-align: center;
+    padding-top: 20rem;
+}
+#hello{
+    color:palegoldenrod;
+    font-size: 4rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#what{
+    color:burlywood;
+    font-size: 2rem;
+    font-style: italic;
+}
+#projects{
+    background-image: linear-gradient(rgb(210, 19, 19),rgb(230, 42, 176),blue);
+    height: 80rem;
+    width: 100%;
+    text-align: center;
+    font-size: 4rem;
+    padding-top: 1rem;
+}
+#proimg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+}
+#one{
+    height: 35rem;
+    width: 35rem;
+    background-image: url(Screenshot\ \(16\).png);
+    background-size: cover;
+    border: solid 0.5rem black;
+}
+#two{
+    height: 35rem;
+    width: 35rem;
+    background-image: url(Screenshot\ \(13\).png);
+    background-size: cover;
+    border: solid 0.5rem black;
+}
+#three{
+    height: 35rem;
+    width: 35rem;
+    background-image: url(Screenshot\ \(14\).png);
+    background-size: cover;
+    margin-top: 1.5rem;
+    border: solid 0.5rem black;
+}
+#collab{
+    background-image: linear-gradient(blue,#275070);
+    height: 12rem;
+    text-align: center;
+    padding-top: 5rem;
+}
+#dowork{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 6rem;
+}
+#myid a{
+    font-size: 3rem;
+    color: bisque;
+    text-decoration: none;
+    margin-top: 3rem;
+}
+#github{
+    margin-right: 2rem;
+    font-weight: 700;
+}
+#ig{
+    margin-right: 2rem;
+    font-weight: 700;
+}
+#linkedin{
+    margin-right: 2rem;
+    font-weight: 700;
+}
+#fb{
+    margin-right: 2rem;
+    font-weight: 700;
+}
+#line{
+    background-color: #955670;
+    height: 0.4rem;
+}
+#footer{
+    background-color: #275070;
+    height: 5rem;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 3rem;
+}
