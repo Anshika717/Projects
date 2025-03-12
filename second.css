@@ -44,6 +44,7 @@
     color:burlywood;
     font-size: 2rem;
     font-style: italic;
+    font-weight: 700;
 }
 #projects{
     background-image: linear-gradient(rgb(210, 19, 19),rgb(230, 42, 176),blue);
